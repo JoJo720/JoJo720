@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=JoJo720&show_icons=true)
 
+<a title="Hits" target="_blank" href="https://github.com/JoJo720/JoJo720"><img src="https://hits.b3log.org/JoJo720/JoJo720.svg"></a>
