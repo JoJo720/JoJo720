@@ -2,7 +2,7 @@
 
 <a title="Hits" target="_blank" href="https://github.com/JoJo720/JoJo720"><img src="https://hits.b3log.org/JoJo720/JoJo720.svg"></a>
 
-![background](assets/img/background.jpg)
+![background](https://raw.githubusercontent.com/JoJo720/JoJo720/master/assets/img/background.jpg)
 
 ## 🙋‍♂️ About me
 
