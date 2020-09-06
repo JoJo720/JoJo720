@@ -2,8 +2,8 @@
 <opml version="1.0">
 <head>
 <title>D介子🅥 from RSS Stalker UWP</title>
-<dateCreated>Tue, 01 Sep 2020 13:49:56 GMT</dateCreated>
-<dateModified>Tue, 01 Sep 2020 13:49:56 GMT</dateModified>
+<dateCreated>Sun, 06 Sep 2020 20:34:49 GMT</dateCreated>
+<dateModified>Sun, 06 Sep 2020 20:34:49 GMT</dateModified>
 </head>
 <body>
 <outline text="网络资源&#129367;" title="网络资源&#129367;">
@@ -98,8 +98,9 @@
 <outline text="每日精读&#127839;" title="每日精读&#127839;">
 <outline text="左岸读书" description="RSS Tracker" htmlUrl="http://www.zreading.cn/" title="左岸读书" type="rss" xmlUrl="http://www.zreading.cn/feed" />
 <outline text="TED Talks Daily" description="RSS Tracker" htmlUrl="https://www.ted.com/talks" title="TED Talks Daily" type="rss" xmlUrl="https://feeds.feedburner.com/TEDTalks_audio" />
+<outline text="观止" description="RSS Tracker" htmlUrl="https://meiriyiwen.com/" title="观止" type="rss" xmlUrl="https://feedx.net/rss/guanzhi.xml" />
 <outline text="The Economist Print edition" description="RSS Tracker" htmlUrl="https://www.economist.com/" title="The Economist Print edition" type="rss" xmlUrl="https://feedx.net/rss/economistp.xml" />
-<outline text="开眼精选" description="RSS Tracker" htmlUrl="https://github.com/DIYgod/RSSHub" title="开眼精选" type="rss" xmlUrl="https://rsshub.app/kaiyan/index" />
+<outline text="开眼精选" description="RSS Tracker" htmlUrl="https://www.kaiyanapp.com/" title="开眼精选" type="rss" xmlUrl="https://rss0.herokuapp.com/kaiyan/index" />
 </outline>
 <outline text="独立博客&#127828;" title="独立博客&#127828;">
 <outline text="编程随想" description="RSS Tracker" htmlUrl="http://program-think.blogspot.com/" title="编程随想" type="rss" xmlUrl="https://feeds2.feedburner.com/programthink" />
@@ -119,11 +120,11 @@
 <outline text="B站每周必看" description="RSS Tracker" htmlUrl="https://www.bilibili.com/h5/weekly-recommend" title="B站每周必看" type="rss" xmlUrl="https://rsshub.app/bilibili/weekly" />
 <outline text="追番列表" description="RSS Tracker" htmlUrl="https://space.bilibili.com/62923913/bangumi" title="追番列表" type="rss" xmlUrl="https://rss0.herokuapp.com/bilibili/user/bangumi/62923913" />
 <outline text="追剧列表" description="RSS Tracker" htmlUrl="https://space.bilibili.com/62923913/cinema" title="追剧列表" type="rss" xmlUrl="https://rss0.herokuapp.com/bilibili/user/bangumi/62923913/2" />
-<outline text="豆瓣Netflix高分" description="RSS Tracker" htmlUrl="https://movie.douban.com/tag/#/?sort=U&amp;amp;range=0,10&amp;amp;tags=" title="豆瓣Netflix高分" type="rss" xmlUrl="https://rsshub.app/douban/movie/classification/R/8.0/Netflix" />
 <outline text="华语新碟榜" description="RSS Tracker" htmlUrl="https://m.douban.com/music/newchinese" title="华语新碟榜" type="rss" xmlUrl="https://rss0.herokuapp.com/douban/music/latest/chinese" />
 <outline text="欧美新碟榜" description="RSS Tracker" htmlUrl="https://m.douban.com/music/newwestern" title="欧美新碟榜" type="rss" xmlUrl="https://rss0.herokuapp.com/douban/music/latest/western" />
 <outline text="日韩新碟榜" description="RSS Tracker" htmlUrl="https://m.douban.com/music/newjapankorean" title="日韩新碟榜" type="rss" xmlUrl="https://rss0.herokuapp.com/douban/music/latest/japankorean" />
 <outline text="All Poetry - NEWESTewest" description="RSS Tracker" htmlUrl="https://allpoetry.com/poems/about/spotlight-oldpoem?order=newest%7D" title="All Poetry - NEWESTewest" type="rss" xmlUrl="https://rss0.herokuapp.com/allpoetry/newest" />
+<outline text="豆瓣Netflix高分" description="RSS Tracker" htmlUrl="https://movie.douban.com/tag/#/?sort=U&amp;amp;range=0,10&amp;amp;tags=" title="豆瓣Netflix高分" type="rss" xmlUrl="https://rss0.herokuapp.com/douban/movie/classification/R/7.5/Netflix,%E5%89%A7%E6%83%85,2020" />
 </outline>
 </body>
 </opml>
