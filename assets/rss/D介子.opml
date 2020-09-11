@@ -2,8 +2,8 @@
 <opml version="1.0">
 <head>
 <title>D介子🅥 from RSS Stalker UWP</title>
-<dateCreated>Sun, 06 Sep 2020 20:34:49 GMT</dateCreated>
-<dateModified>Sun, 06 Sep 2020 20:34:49 GMT</dateModified>
+<dateCreated>Fri, 11 Sep 2020 12:11:41 GMT</dateCreated>
+<dateModified>Fri, 11 Sep 2020 12:11:41 GMT</dateModified>
 </head>
 <body>
 <outline text="网络资源&#129367;" title="网络资源&#129367;">
@@ -13,7 +13,6 @@
 <outline text="免費資源網路社群" description="RSS Tracker" htmlUrl="http://free.com.tw/" title="免費資源網路社群" type="rss" xmlUrl="http://feeds.feedburner.com/freegroup" />
 <outline text="反斗软件 &#187; 反斗软件" description="RSS Tracker" htmlUrl="http://www.apprcn.com/" title="反斗软件 &#187; 反斗软件" type="rss" xmlUrl="http://www.apprcn.com/feed" />
 <outline text="少数派" description="RSS Tracker" htmlUrl="http://sspai.com/feed" title="少数派" type="rss" xmlUrl="http://sspai.com/feed" />
-<outline text="编程随想" description="RSS Tracker" htmlUrl="http://program-think.blogspot.com/" title="编程随想" type="rss" xmlUrl="https://feeds2.feedburner.com/programthink" />
 <outline text="Windows软件破解" description="RSS Tracker" htmlUrl="https://downloadly.ir/" title="Windows软件破解" type="rss" xmlUrl="https://downloadly.ir/feed/" />
 <outline text="Rat&#39;s Blog" description="RSS Tracker" htmlUrl="https://www.moerats.com/" title="Rat&#39;s Blog" type="rss" xmlUrl="https://www.moerats.com/feed" />
 <outline text="如有乐享" description="RSS Tracker" htmlUrl="https://51.ruyo.net/" title="如有乐享" type="rss" xmlUrl="https://51.ruyo.net/feed/" />
@@ -101,6 +100,17 @@
 <outline text="观止" description="RSS Tracker" htmlUrl="https://meiriyiwen.com/" title="观止" type="rss" xmlUrl="https://feedx.net/rss/guanzhi.xml" />
 <outline text="The Economist Print edition" description="RSS Tracker" htmlUrl="https://www.economist.com/" title="The Economist Print edition" type="rss" xmlUrl="https://feedx.net/rss/economistp.xml" />
 <outline text="开眼精选" description="RSS Tracker" htmlUrl="https://www.kaiyanapp.com/" title="开眼精选" type="rss" xmlUrl="https://rss0.herokuapp.com/kaiyan/index" />
+</outline>
+<outline text="播客订阅&#128250;" title="播客订阅&#128250;">
+<outline text="段子来了" description="RSS Tracker" htmlUrl="http://www.ximalaya.com/" title="段子来了" type="rss" xmlUrl="http://www.ximalaya.com/album/203355.xml" />
+<outline text="没节操有情操英语影评" description="RSS Tracker" htmlUrl="http://www.ximalaya.com/" title="没节操有情操英语影评" type="rss" xmlUrl="http://www.ximalaya.com/album/241818.xml" />
+<outline text="疯投圈" description="RSS Tracker" htmlUrl="https://crazy.capital/" title="疯投圈" type="rss" xmlUrl="https://crazy.capital/feed" />
+<outline text="Second Life" description="RSS Tracker" htmlUrl="https://art19.com/shows/second-life" title="Second Life" type="rss" xmlUrl="https://rss.art19.com/second-life" />
+<outline text="潘吉Jenny告诉你|学英语聊美国|开言英语 &#183; Podcast" description="RSS Tracker" htmlUrl="https://openlanguage.com/ez/podcast/learn-english/pj" title="潘吉Jenny告诉你|学英语聊美国|开言英语 &#183; Podcast" type="rss" xmlUrl="https://openlanguage.com/ez/podcast/learn-english/pj" />
+<outline text="一派&#183;Podcast" description="RSS Tracker" htmlUrl="https://sspai.fireside.fm/" title="一派&#183;Podcast" type="rss" xmlUrl="https://feeds.fireside.fm/sspai/rss" />
+<outline text="梁文道&#183;八分" description="RSS Tracker" htmlUrl="https://api.vistopia.com.cn/rss/program/11.xml" title="梁文道&#183;八分" type="rss" xmlUrl="https://api.vistopia.com.cn/rss/program/11.xml" />
+<outline text="内核恐慌" description="RSS Tracker" htmlUrl="https://pan.icu/" title="内核恐慌" type="rss" xmlUrl="https://pan.icu/feed" />
+<outline text="卡内基沟通与人际关系" description="RSS Tracker" htmlUrl="http://www.ximalaya.com" title="卡内基沟通与人际关系" type="rss" xmlUrl="http://www.ximalaya.com/album/4535232.xml" />
 </outline>
 <outline text="独立博客&#127828;" title="独立博客&#127828;">
 <outline text="编程随想" description="RSS Tracker" htmlUrl="http://program-think.blogspot.com/" title="编程随想" type="rss" xmlUrl="https://feeds2.feedburner.com/programthink" />
