@@ -16,6 +16,7 @@
       <outline text="远鉴字幕组发布频道 - Telegram 频道" title="远鉴字幕组发布频道 - Telegram 频道" type="rss" xmlUrl="https://rsshub.app/telegram/channel/VisionarySub" htmlUrl="https://t.me/s/VisionarySub"/>
       <outline text="Cinephilia迷影" title="Cinephilia迷影" type="rss" xmlUrl="http://cinephilia.net/feed" htmlUrl="http://cinephilia.net/"/>
       <outline text="Netflix - Telegram 频道" title="Netflix - Telegram 频道" type="rss" xmlUrl="https://rsshub.app/telegram/channel/netflix" htmlUrl="https://t.me/s/netflix"/>
+      <outline text="zread (推) - 什么书值得读 📚 - Telegram 频道" title="zread (推) - 什么书值得读 📚 - Telegram 频道" type="rss" xmlUrl="https://rsshub.app/telegram/channel/zreadpush" htmlUrl="https://t.me/s/zreadpush"/>
       <outline text="追剧列表" title="追剧列表" type="rss" xmlUrl="https://rss0.herokuapp.com/bilibili/user/bangumi/62923913/2" htmlUrl="https://space.bilibili.com/62923913/cinema"/>
       <outline text="豆瓣新片影评" title="豆瓣新片影评" type="rss" xmlUrl="http://movie.douban.com/feed/review/movie_new" htmlUrl="http://movie.douban.com/review/movie_new/"/>
       <outline text="豆瓣电影北美票房榜" title="豆瓣电影北美票房榜" type="rss" xmlUrl="https://rsshub.app/douban/movie/ustop" htmlUrl="https://movie.douban.com/chart"/>
@@ -28,7 +29,6 @@
     <outline text="杂志阅读🍀" title="杂志阅读🍀">
       <outline text="端传媒" title="端传媒" type="rss" xmlUrl="https://rss0.herokuapp.com/initium/feature/zh-hans" htmlUrl="https://theinitium.com/"/>
       <outline text="场库-每日精选" title="场库-每日精选" type="rss" xmlUrl="https://rsshub.app/changku" htmlUrl="https://app.vmovier.com/apiv3/index/getIndexPosts/lastid/"/>
-      <outline text="zread (推) - 什么书值得读 📚 - Telegram 频道" title="zread (推) - 什么书值得读 📚 - Telegram 频道" type="rss" xmlUrl="https://rsshub.app/telegram/channel/zreadpush" htmlUrl="https://t.me/s/zreadpush"/>
       <outline text="Inspiring Thoughts - Telegram 频道" title="Inspiring Thoughts - Telegram 频道" type="rss" xmlUrl="https://rsshub.app/telegram/channel/inspiringthoughts" htmlUrl="https://t.me/s/inspiringthoughts"/>
       <outline text="新·品葱" title="新·品葱" type="rss" xmlUrl="https://pincong.rocks/feed/" htmlUrl="https://pincong.rocks/feed/"/>
       <outline text="FT中文网:十大热门文章" title="FT中文网:十大热门文章" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/hotstoryby7day.ftchinese.com.xml" htmlUrl="http://www.ftchinese.com/"/>
@@ -70,17 +70,18 @@
       <outline text="Primitive Technology" title="Primitive Technology" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAL3JXZSzSm8AlZyD3nQdBA" htmlUrl="http://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA"/>
     </outline>
     <outline text="技术资讯🍚" title="技术资讯🍚">
+      <outline text="程序员技术资源分享 - Telegram 频道" title="程序员技术资源分享 - Telegram 频道" type="rss" xmlUrl="https://rsshub.app/telegram/channel/gotoshare" htmlUrl="https://t.me/s/gotoshare"/>
       <outline text="Saodaye" title="Saodaye" type="rss" xmlUrl="https://saodaye.com/feed" htmlUrl="https://saodaye.com/"/>
       <outline text="掘金" title="掘金" type="rss" xmlUrl="https://juejin.im/rss" htmlUrl="https://juejin.im/"/>
       <outline text="GitHub" title="GitHub" type="rss" xmlUrl="https://github.com/JoJo720.private.atom?token=AIA6D46YCGVSXPYUCBIPSUN5IHMSU" htmlUrl="https://github.com/JoJo720"/>
+      <outline text="优设-UISDC" title="优设-UISDC" type="rss" xmlUrl="http://www.uisdc.com/feed" htmlUrl="http://www.uisdc.com/"/>
       <outline text="开发者日报 - Telegram 频道" title="开发者日报 - Telegram 频道" type="rss" xmlUrl="https://rsshub.app/telegram/channel/cndevdaily" htmlUrl="https://t.me/s/cndevdaily"/>
-      <outline text="程序员技术资源分享 - Telegram 频道" title="程序员技术资源分享 - Telegram 频道" type="rss" xmlUrl="https://rsshub.app/telegram/channel/gotoshare" htmlUrl="https://t.me/s/gotoshare"/>
       <outline text="V2EX - Python" title="V2EX - Python" type="rss" xmlUrl="https://www.v2ex.com/feed/python.xml" htmlUrl="https://www.v2ex.com/"/>
       <outline text="paper - Last paper" title="paper - Last paper" type="rss" xmlUrl="https://paper.seebug.org/rss/" htmlUrl="https://paper.seebug.org/"/>
       <outline text="安全客-有思想的安全新媒体" title="安全客-有思想的安全新媒体" type="rss" xmlUrl="https://api.anquanke.com/data/v1/rss" htmlUrl="https://www.anquanke.com/"/>
       <outline text="V2EX - LeetCode" title="V2EX - LeetCode" type="rss" xmlUrl="https://www.v2ex.com/feed/leetcode.xml" htmlUrl="https://www.v2ex.com/"/>
     </outline>
-    <outline text="每日美图🌲" title="每日美图🌲">
+    <outline text="图片故事🌲" title="图片故事🌲">
       <outline text="必应今日美图国际版" title="必应今日美图国际版" type="rss" xmlUrl="https://feedx.net/rss/bingenwallpaper.xml" htmlUrl="http://bing.com/"/>
       <outline text="Latest entries for ableton.com" title="Latest entries for ableton.com" type="rss" xmlUrl="http://www.ableton.com/blog/feeds/latest/" htmlUrl="http://www.ableton.com/en/blog/"/>
       <outline text="Pixiv每月排行 - 前20" title="Pixiv每月排行 - 前20" type="rss" xmlUrl="http://rakuen.thec.me/PixivRss/monthly-20" htmlUrl="http://rakuen.thec.me/PixivRss/"/>
@@ -88,22 +89,21 @@
       <outline text="摄影世界" title="摄影世界" type="rss" xmlUrl="https://feedx.net/rss/photoworld.xml" htmlUrl="https://www.photoworld.com.cn/"/>
     </outline>
     <outline text="网络资源🥗" title="网络资源🥗">
-      <outline text="优设-UISDC" title="优设-UISDC" type="rss" xmlUrl="http://www.uisdc.com/feed" htmlUrl="http://www.uisdc.com/"/>
-      <outline text="📢中文播客精选 - Telegram 频道" title="📢中文播客精选 - Telegram 频道" type="rss" xmlUrl="https://rsshub.app/telegram/channel/greatpodcasts" htmlUrl="https://t.me/s/greatpodcasts"/>
-      <outline text="异次元软件世界" title="异次元软件世界" type="rss" xmlUrl="http://feed.iplaysoft.com/" htmlUrl="http://www.iplaysoft.com/"/>
-      <outline text="Leonn的博客 - Telegram 频道" title="Leonn的博客 - Telegram 频道" type="rss" xmlUrl="https://rsshub.app/telegram/channel/liyuans" htmlUrl="https://t.me/liyuans"/>
       <outline text="反斗软件 » 反斗软件" title="反斗软件 » 反斗软件" type="rss" xmlUrl="http://www.apprcn.com/feed" htmlUrl="http://www.apprcn.com/"/>
-      <outline text="Your Daily Dose of Podcast - Telegram 频道" title="Your Daily Dose of Podcast - Telegram 频道" type="rss" xmlUrl="https://rsshub.app/telegram/channel/daily_dose_podcast" htmlUrl="https://t.me/s/daily_dose_podcast"/>
-      <outline text="不死鸟" title="不死鸟" type="rss" xmlUrl="https://hao.su/feed/" htmlUrl="https://hao.su/"/>
       <outline text="印象笔记|科技 NEWS - Telegram 频道" title="印象笔记|科技 NEWS - Telegram 频道" type="rss" xmlUrl="https://rsshub.app/telegram/channel/YinxiangBiji_News" htmlUrl="https://t.me/s/YinxiangBiji_News"/>
-      <outline text="吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn" title="吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn" type="rss" xmlUrl="http://www.52pojie.cn/forum.php?mod=rss&amp;amp;amp;amp;fid=16&amp;amp;amp;amp;auth=0" htmlUrl="http://www.52pojie.cn/forum-16-1.html"/>
+      <outline text="不死鸟" title="不死鸟" type="rss" xmlUrl="https://hao.su/feed/" htmlUrl="https://hao.su/"/>
       <outline text="✈️薅机场羊毛┊白嫖无罪 - Telegram 频道" title="✈️薅机场羊毛┊白嫖无罪 - Telegram 频道" type="rss" xmlUrl="https://rsshub.app/telegram/channel/freemason6" htmlUrl="https://t.me/s/freemason6"/>
-      <outline text="胡萝卜周博客 - Telegram 频道" title="胡萝卜周博客 - Telegram 频道" type="rss" xmlUrl="https://rsshub.app/telegram/channel/carrotchoublog" htmlUrl="https://t.me/s/carrotchoublog"/>
       <outline text="值物志 - Telegram 频道" title="值物志 - Telegram 频道" type="rss" xmlUrl="https://rsshub.app/telegram/channel/zhiwuzhi" htmlUrl="https://t.me/s/zhiwuzhi"/>
-      <outline text="活动优惠" title="活动优惠" type="rss" xmlUrl="https://jike.info/category/5.rss" htmlUrl="https://jike.info/category/5"/>
+      <outline text="胡萝卜周博客 - Telegram 频道" title="胡萝卜周博客 - Telegram 频道" type="rss" xmlUrl="https://rsshub.app/telegram/channel/carrotchoublog" htmlUrl="https://t.me/s/carrotchoublog"/>
+      <outline text="All About RSS - Telegram 频道" title="All About RSS - Telegram 频道" type="rss" xmlUrl="https://feeds.feedburner.com/AllAboutRSS" htmlUrl="https://t.me/s/aboutrss"/>
       <outline text="Zapro Notice - Telegram 频道" title="Zapro Notice - Telegram 频道" type="rss" xmlUrl="https://rsshub.app/telegram/channel/zaproshare" htmlUrl="https://t.me/s/zaproshare"/>
+      <outline text="吾爱破解论坛 - LCG - LSG |软件安全|病毒分析|破解软件|www.52pojie.cn - 『精品软件区』" title="吾爱破解论坛 - LCG - LSG |软件安全|病毒分析|破解软件|www.52pojie.cn - 『精品软件区』" type="rss" xmlUrl="http://www.52pojie.cn/forum.php?mod=rss&amp;fid=16&amp;auth=0" htmlUrl="http://www.52pojie.cn/forum-16-1.html"/>
+      <outline text="活动优惠" title="活动优惠" type="rss" xmlUrl="https://jike.info/category/5.rss" htmlUrl="https://jike.info/category/5"/>
+      <outline text="📢中文播客精选 - Telegram 频道" title="📢中文播客精选 - Telegram 频道" type="rss" xmlUrl="https://rsshub.app/telegram/channel/greatpodcasts" htmlUrl="https://t.me/s/greatpodcasts"/>
       <outline text="Windows软件破解" title="Windows软件破解" type="rss" xmlUrl="https://downloadly.ir/feed/" htmlUrl="https://downloadly.ir/"/>
-      <outline text="All About RSS - Telegram 频道" title="All About RSS - Telegram 频道" type="rss" xmlUrl="https://rsshub.app/telegram/channel/aboutrss" htmlUrl="https://t.me/s/aboutrss"/>
+      <outline text="Leonn的博客 - Telegram 频道" title="Leonn的博客 - Telegram 频道" type="rss" xmlUrl="https://rsshub.app/telegram/channel/liyuans" htmlUrl="https://t.me/liyuans"/>
+      <outline text="异次元软件世界" title="异次元软件世界" type="rss" xmlUrl="http://feed.iplaysoft.com/" htmlUrl="http://www.iplaysoft.com/"/>
+      <outline text="Your Daily Dose of Podcast - Telegram 频道" title="Your Daily Dose of Podcast - Telegram 频道" type="rss" xmlUrl="https://rsshub.app/telegram/channel/daily_dose_podcast" htmlUrl="https://t.me/s/daily_dose_podcast"/>
       <outline text="RSSHub 有新路由啦" title="RSSHub 有新路由啦" type="rss" xmlUrl="https://rss0.herokuapp.com/rsshub/routes" htmlUrl="https://docs.rsshub.app/"/>
       <outline text="電腦玩物" title="電腦玩物" type="rss" xmlUrl="http://feeds.feedburner.com/playpc" htmlUrl="http://www.playpcesor.com/"/>
       <outline text="免費資源網路社群" title="免費資源網路社群" type="rss" xmlUrl="http://feeds.feedburner.com/freegroup" htmlUrl="http://free.com.tw/"/>
@@ -128,9 +128,8 @@
       <outline text="36氪" title="36氪" type="rss" xmlUrl="http://www.36kr.com/feed" htmlUrl="http://www.36kr.com/"/>
       <outline text="Hacker News" title="Hacker News" type="rss" xmlUrl="https://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/"/>
     </outline>
-    <outline text="不可描述🎃" title="不可描述🎃">
+    <outline text="不可描述🚕" title="不可描述🚕">
       <outline text="Hentaimama - Recent Videos" title="Hentaimama - Recent Videos" type="rss" xmlUrl="https://rsshub.app/hentaimama/videos" htmlUrl="http://hentaimama.io/recent-episodes/"/>
-      <outline text="JavBus - JavBus - AV磁力連結分享 - 日本成人影片資料庫" title="JavBus - JavBus - AV磁力連結分享 - 日本成人影片資料庫" type="rss" xmlUrl="https://rsshub.app/javbus/home" htmlUrl="https://www.javbus.com/"/>
       <outline text="Avgle tr/m" title="Avgle tr/m" type="rss" xmlUrl="https://rss0.herokuapp.com/avgle/videos/tr/m/10" htmlUrl="https://avgle.com/videos?o=tr&amp;t=m"/>
     </outline>
   </body>
