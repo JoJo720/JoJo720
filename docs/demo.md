@@ -32,8 +32,8 @@ _sidebar.md
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: 'JoJo720',
-      repo: 'JoJo720',
+      name: 'docsify 指南',
+      repo: 'JoJo720/JoJo720',
       coverpage: true,
       loadSidebar: true,
       subMaxLevel: 3, //最大子标签级别
