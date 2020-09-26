@@ -2,7 +2,7 @@
 
 ## 环境
 
-建议使用nvm进行node版本管理. 先去https://nodejs.org/en/下载稳定版本node，再去https://github.com/coreybutler/nvm-windows下载最新版nvm，安装时指定nodejs路径.
+建议使用nvm进行node版本管理. 先去https://nodejs.org/en/ 下载稳定版本node，再去 https://github.com/coreybutler/nvm-windows 下载最新版nvm，安装时指定nodejs路径.
 
 ```bash
 nvm ls # 查看安装的npm版本
