@@ -14,7 +14,7 @@
 * Blog: ~~[DS’s Blog](https://ds19991999.github.io/)~~、👉 [D介子🔗](https://www.hackhub.me/) 
 * GitHub: [@jojo720](https://github.com/JoJo720)
 * BiliBili: [D介子](https://space.bilibili.com/62923913/bangumi)
-* Twitter: [D介子](https://twitter.com/hackhub2020)
+* Twitter: [D介子](https://twitter.com/hackhub_me)
 * E-Mail: [🔗](cva.engineer.ding@gmail.com)
 
 * Telegram: [@jojo720](https://t.me/jojo720)
