@@ -14,7 +14,7 @@
 * Blog: ~~[DS’s Blog](https://ds19991999.github.io/)~~、👉 [D介子🔗](https://www.hackhub.me/) 
 * GitHub: [@mesondzh](https://github.com/mesondzh)
 * BiliBili: [D介子](https://space.bilibili.com/62923913/bangumi)
-* Twitter: [D介子](https://twitter.com/hackhub_me)
+* Twitter: [D介子](https://twitter.com/mesondzh)
 * E-Mail: [🔗](cva.engineer.ding@gmail.com)
 
 * Telegram: [@mesondzh](https://t.me/mesondzh)
